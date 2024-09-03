@@ -32,7 +32,7 @@ ArteryGear-Unpack
 
 [@机动战姬聚变 2021年5月25日全平台首发](https://game.bilibili.com/AG/news.html#detail=7794)
 
-![停服公告](.\pic0\0.png)
+![停服公告](./pic0/0.png)
 
 ### 其他归档
 
